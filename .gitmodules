@@ -1,0 +1,6 @@
+[submodule "rendi_mobil"]
+	path = rendi_mobil
+	url = https://github.com/vamosilaszloadam/rendi_mobil.git
+[submodule "rendi_api"]
+	path = rendi_api
+	url = https://github.com/vamosilaszloadam/rendi_api.git
